@@ -26,6 +26,10 @@ Links to the papers:
 
 
 
-Output:
+My Output:
 
+### Skeleton
 ![alt text](https://github.com/Kaif10/Pose-Detection/blob/master/Output-Skeleton.jpg)
+
+### Keypoints
+![alt text](https://github.com/Kaif10/Pose-Detection/blob/master/Output-Keypoints.jpg)

@@ -28,4 +28,4 @@ Links to the papers:
 
 Output:
 
-![alt text](https://github.com/Kaif10/Pose-Detection/blob/master/openpose.py)
+![alt text](https://github.com/Kaif10/Pose-Detection/blob/master/Output-Skeleton.jpg)
